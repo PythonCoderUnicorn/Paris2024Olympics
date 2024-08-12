@@ -28,3 +28,7 @@ Data recorded while watching the games, not all results were shown on screen.
 	WOMEN'S 100M BREASTSTROKES - HEATS (X5)   WR 1:04.13  OR 1:04.82
 	MEN'S 100M BACKSTROKE - HEATS (X6)
 	WOMEN'S 200M FREESTYLE - HEATS (X4)       WR 1:52.23  OR 1:53.50
+
+### Finals
+
+	MEN'S 400M MEDLEY FINAL                   OR 4:02.95 -- FRA MARCHAND (2024)
