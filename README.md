@@ -7,6 +7,8 @@ Data recorded while watching the games, not all results were shown on screen.
 
 - `WR` World Record
 - `OR` Olympic Record
+- `DNS` Did Not Start
+- `DSQ` Disqualified
 
 ---
 
@@ -23,6 +25,6 @@ Data recorded while watching the games, not all results were shown on screen.
 
 	MEN'S 200M FREESTYLE - HEATS (X4)
 	MEN'S 400M INDIVIDUAL MEDLY - HEATS (X2)
-	WOMEN'S 100M BREASTSTROKES - HEATS (X5)
+	WOMEN'S 100M BREASTSTROKES - HEATS (X5)   WR 1:04.13  OR 1:04.82
 	MEN'S 100M BACKSTROKE - HEATS (X6)
 	WOMEN'S 200M FREESTYLE - HEATS (X4)
