@@ -32,3 +32,4 @@ Data recorded while watching the games, not all results were shown on screen.
 ### Finals
 
 	MEN'S 400M MEDLEY FINAL                   OR 4:02.95 -- FRA MARCHAND (2024)
+ 	WOMEN'S 100M BUTTERFLY FINAL
