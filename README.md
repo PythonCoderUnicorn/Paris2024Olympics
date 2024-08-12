@@ -8,7 +8,7 @@ a repo for Paris 2024 Olympic results (selected events and times)
 Data recorded while watching the games, not all results were shown on screen.
 
 - `WR` World Record
-- `OR` Olympic Record
+- `OR` Olympic Record | `**OR` new 
 - `DNS` Did Not Start
 - `DSQ` Disqualified
 
@@ -34,5 +34,6 @@ Data recorded while watching the games, not all results were shown on screen.
 
 ### Finals
 
-	MEN'S 400M MEDLEY FINAL                   OR 4:02.95 -- FRA MARCHAND (2024)
+	MEN'S 400M MEDLEY FINAL                    **OR 4:02.95 (FRA, MARCHAND)
  	WOMEN'S 100M BUTTERFLY FINAL
+  	MEN'S 100M BREASTSTROKE                     WR 56.88 OR 57.13
