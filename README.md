@@ -31,6 +31,7 @@ Data recorded while watching the games, not all results were shown on screen.
   	WOMEN'S 100M BREASTSTROKE - SEMI-FINAL (x2)  WR 1:04.13  OR 1:04:82
    	MEN'S 100M BACKSTROKE - SEMI-FINAL (x2)      WR 51.60 (ITA, CECCON)   OR 51.85 (USA, MURPHY)
     	WOMEN'S 200M FREESTYLE - SEMI-FINAL (x2)     WR 1:52.23 (AUS, TITMUS, 2024) OR 1:53.50 (AUS, TITMUS, 2021)
+     	WOMEN'S 400M MEDLEY (x2)
     
 
 ### Finals
