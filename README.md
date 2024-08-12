@@ -5,13 +5,16 @@ a repo for Paris 2024 Olympic results (selected events and times)
 
 Data recorded while watching the games, not all results were shown on screen.
 
+- `WR` World Record
+- `OR` Olympic Record
+
 ---
 
 ### DAY 1 - 
 	WOMEN'S 100M BUTTERFLY - HEATS (X4)
 	WOMEN'S 400M FREESTYLE- HEATS (X3)
 	MEN'S 100M BREASTROK - HEATS (X5)
-	MEN'S 400M FREESTYLE - HEATS (X5)
+	MEN'S 400M FREESTYLE - HEATS (X5)  WR 3:40.07  OR 3:40.14
 	WOMEN'S 4 X 100M FREESTYLE RELAY - HEATS(X2)
 	MEN'S 4 X 100M FREESTYLE RELAT - HEATS (X2)
 
