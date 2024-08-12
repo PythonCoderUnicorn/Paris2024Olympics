@@ -1,7 +1,9 @@
 # Paris2024Olympics
 a repo for Paris 2024 Olympic results (selected events and times)
 
-<img height=300 align='right' src='https://github.com/user-attachments/assets/a51c1df8-02aa-4d3c-bb80-e788ebffe4bc'>
+<img height=200 align='right' src='https://github.com/user-attachments/assets/a51c1df8-02aa-4d3c-bb80-e788ebffe4bc'>
+
+##
 
 Data recorded while watching the games, not all results were shown on screen.
 
@@ -10,7 +12,8 @@ Data recorded while watching the games, not all results were shown on screen.
 - `DNS` Did Not Start
 - `DSQ` Disqualified
 
----
+
+## Swimming 
 
 ### heats - 
 	WOMEN'S 100M BUTTERFLY - HEATS (X4)
