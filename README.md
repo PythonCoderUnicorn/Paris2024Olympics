@@ -29,6 +29,7 @@ Data recorded while watching the games, not all results were shown on screen.
 	WOMEN'S 200M FREESTYLE - HEATS (X4)          WR 1:52.23  OR 1:53.50
  	MEN'S 200M FREESTYLE - SEMI-FINAL (x2)
   	WOMEN'S 100M BREASTSTROKE - SEMI-FINAL (x2)  WR 1:04.13  OR 1:04:82
+   	MEN'S 100M BACKSTROKE - SEMI-FINAL (x2)
 
 ### Finals
 
