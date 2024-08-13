@@ -8,6 +8,9 @@ Women's 1500M Repechage (redo)  `WR 3:49.04   OR 3:53.11`
 
 Women's 400M   `WR 47.60   OR 48.25`
 
+Women's 1500M - Semi-Finals (x2)   `WR 3:49.04  OR 3:53.11`
+
+
 ---
 
 `**OR` = new Olympic Record 
