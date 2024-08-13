@@ -1,5 +1,4 @@
-event, group, country, athlete_name, finish
-WOMENS HEPTATHLON , SHOT PUT, country, athlete_name, distance_M
+event, group, country, athlete_name,  distance_M
 WOMENS HEPTATHLON , SHOT PUT, BEL, THIAM,15.54
 WOMENS HEPTATHLON , SHOT PUT, NED ,VETTER,15.07
 WOMENS HEPTATHLON , SHOT PUT, BEL, VIDTS,14.57
