@@ -12,6 +12,19 @@ Women's 1500M - Semi-Finals (x2)   `WR 3:49.04  OR 3:53.11`
 
 Women's Heptathlon 200M   `WR 22.30   OR 22.56`
 
+Women's 400M Hurdles (Final)
+```
+WR 50.65 (USA, McLAUGHLIN-LEVRONE, 2024)
+OR 51.46 (USA, McLAUGHLIN-LEVRONE, 2021)
+**OR 50.37 (USA, McLAUGHLIN-LEVRONE, 2024)
+```
+
+
+
+
+
+
+
 ---
 
 `**OR` = new Olympic Record 
