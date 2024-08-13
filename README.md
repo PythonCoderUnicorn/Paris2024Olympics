@@ -102,4 +102,6 @@ MEN'S 200M INDIVIDUAL MEDLEY               WR 1:54.00 (USA, LOCHTE, 2011)     OR
 MEN'S 100M BUTTERFLY                       WR & OR 49.45 (USA, DRESSEL)
 WOMEN'S 200M INDIVIDUAL MEDLY              WR 2:06.12 (HUN, HOSSZU, 2015)     OR 2:06.58 (HUN, HOSSZU, 2016)          **OR 2:06.56 (CAN, McINTOSH, 2024)
 WOMEN'S 800M FREESTYLE                     WR & OR 8:04.70 (USA, LEDECKY)
+MIXED 4X100 MEDLEY RELAY                   WR 3:37.58 (GBR, 2021)             OR 3:37.58 (GBR, 2021)                  **WR 3:37.43 (USA, 2024)
+
 ```
