@@ -84,5 +84,6 @@ MEN'S 100M FREESTYLE                       WR 46.80 (CHN, PAN, 2024)          OR
 WOMEN'S 200M BUTTERFLY                     WR 2:01.81 00 (CHN, LIU, 2009)     OR 2:03.86 (CHN, ZHANG, 2021)           **OR 2:03.03 (CAN, McINTOSH)
 MEN'S 200M BACKSTROKE                      WR 1:51.92 (USA, PEIRSOL, 2009)    OR 1:53.27 (ROC, RYLOV, 2021)
 WOMEN'S 200M BREASTTROKE                   WR 2:17.55 (RUS, CHIKUNOVA, 2023)  OR 2:18.95 (RSA, SMITH, 2021)
+WOMEN'S 4X200M FREESTYLE RELAY             WR 7:37.50 (AUS, 2023)             OR 7:40.33 (CHN, 2021)                  **OR 7:38.08 (AUS, 2024)
 
 ```
