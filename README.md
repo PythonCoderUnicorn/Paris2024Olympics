@@ -105,4 +105,5 @@ WOMEN'S 800M FREESTYLE                     WR & OR 8:04.70 (USA, LEDECKY)
 MIXED 4X100 MEDLEY RELAY                   WR 3:37.58 (GBR, 2021)             OR 3:37.58 (GBR, 2021)                  **WR 3:37.43 (USA, 2024)
 WOMEN'S 50M FREESTYLE                      WR 23.61 (SWE, SJOESTRROEM, 2023)  OR 23.66 (SWE, SJOESTRROEM, 2024)
 MEN'S 1500M FREESTYLE                      WR 14:31.01 (CHN, SUN, 2012)       OR 14:31.01 (CHN, SUN, 2012)            **WR 14:30.67 (USA, FINKE, 2024)
+MEN'S 4X100 MEDLEY RELAY                   WR 3:26.78 (USA, 2021)             OR 3:26.78 (USA, 2021)
 ```
