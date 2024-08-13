@@ -1,32 +1,28 @@
 # Paris 2024 Athletics
 
-Women's 3000M Steeplechase  `OR 8:52.76 (BRN, YAVI, 2024)`
+- Women's 3000M Steeplechase  `OR 8:52.76 (BRN, YAVI, 2024)`
 
-Women's 100M Hurdles   `WR 12.12    OR 12.26`
+- Women's 100M Hurdles   `WR 12.12    OR 12.26`
 
-Women's 1500M Repechage (redo)  `WR 3:49.04   OR 3:53.11`
+- Women's 1500M Repechage (redo)  `WR 3:49.04   OR 3:53.11`
 
-Women's 400M   `WR 47.60   OR 48.25`
+- Women's 400M   `WR 47.60   OR 48.25`
 
-Women's 1500M - Semi-Finals (x2)   `WR 3:49.04  OR 3:53.11`
+- Women's 1500M - Semi-Finals (x2)   `WR 3:49.04  OR 3:53.11`
 
-Women's Heptathlon 200M   `WR 22.30   OR 22.56`
+- Women's Heptathlon 200M   `WR 22.30   OR 22.56`
 
-Women's 400M Hurdles (Final)
-```
-WR 50.65 (USA, McLAUGHLIN-LEVRONE, 2024)
-OR 51.46 (USA, McLAUGHLIN-LEVRONE, 2021)
-**OR 50.37 (USA, McLAUGHLIN-LEVRONE, 2024)
-```
+- Women's 400M Hurdles (Final) `WR 50.65 (USA, McLAUGHLIN-LEVRONE, 2024)  OR 51.46 (USA, McLAUGHLIN-LEVRONE, 2021)  **OR 50.37 (USA, McLAUGHLIN-LEVRONE, 2024)`
 
-Women's Long Jump   `WR 7.52 M (URS, CHISTYAKOVA, 1988)     OR 7.40 M (USA, JOYNER-KERSEE, 1988)`
+- Women's Long Jump   `WR 7.52 M (URS, CHISTYAKOVA, 1988)     OR 7.40 M (USA, JOYNER-KERSEE, 1988)`
 
-Women's 4X100 RELAY (Final)  `WR 40.82 (USA, 2012)   OR 40.82 (USA, 2012)`
+- Women's 4X100 RELAY (Final)  `WR 40.82 (USA, 2012)   OR 40.82 (USA, 2012)`
 
-Women's 400M (Final) `WR 47.60   OR 48.25` `**OR 48.17 (DOM, PAULINO, 2024)`
+- Women's 400M (Final) `WR 47.60   OR 48.25` `**OR 48.17 (DOM, PAULINO, 2024)`
 
-Women's 800M Heptathlon  `WR 2:01.84   OR 2:03.60`
+- Women's 800M Heptathlon  `WR 2:01.84   OR 2:03.60`
 
+- Women's 10000 M (Final)  `WR 28:54.14 OR 29:17.45`
 
 
 
