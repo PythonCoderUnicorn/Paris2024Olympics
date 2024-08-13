@@ -1,4 +1,4 @@
-# Paris2024Olympics
+# Paris 2024 Olympics
 a repo for Paris 2024 Olympic results (selected events and times)
 
 <img height=200 align='right' src='https://github.com/user-attachments/assets/a51c1df8-02aa-4d3c-bb80-e788ebffe4bc'>
@@ -63,6 +63,8 @@ MEN'S 100M BUTTERFLY (x5)                    WR 49.45 (USA, DRESSEL, 2021)     O
 WOMEN'S 200M INDIVIDUAL MEDLEY (x5)
 WOMEN'S 800M FREESTYLE (x2)                  WR 8:04.79 (USA, LEDECKY, 2016)   OR 8:04.79 (USA, LEDECKY, 2016)
 MIXED 4X100 MEDLEY RELAY (x2)                WR & OR 3:37.58 (GBR, 2021)
+MEN'S 100M BUTTERFLY - SEMI-FINAL (x2)       WR & OR 49.45 (USA, DRESSEL, 2021)
+
 
 
 ```
