@@ -9,7 +9,7 @@ Women's 1500M Repechage (redo)  `WR 3:49.04   OR 3:53.11`
 Women's 400M   `WR 47.60   OR 48.25`
 
 
-### WOMEN'S 59KG WEIGHTLIFTING (FINAL)
+### WOMEN'S 59 kg WEIGHTLIFTING (FINAL)
 
 `**OR` = new Olympic Record 
 
@@ -23,3 +23,13 @@ OR 103 kg  (TPE, KUO, HSING-CHUN, 2021)
 **OR 106 kg  (CAN, CHARRON, MAUDE, 2024)
 **OR 107 kg  (CHN, LUO, SHIFANG, 2024)
 ```
+
+Clean and Jerk 
+```
+WR 140 kg (TPE, KUO, HSING-CHUN)
+OR 133 kg (TPE, KUO, HSING-CHUN)
+**OR 134 kg (TPE, KUO, HSING-CHUN, 2024)
+```
+
+
+
