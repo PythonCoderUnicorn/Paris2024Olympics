@@ -25,6 +25,10 @@ Women's 4X100 RELAY (Final)  `WR 40.82 (USA, 2012)   OR 40.82 (USA, 2012)`
 
 Women's 400M (Final) `WR 47.60   OR 48.25` `**OR 48.17 (DOM, PAULINO, 2024)`
 
+Women's 800M Heptathlon  `WR 2:01.84   OR 2:03.60`
+
+
+
 
 ---
 
