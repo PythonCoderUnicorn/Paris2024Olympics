@@ -23,7 +23,7 @@ Women's Long Jump   `WR 7.52 M (URS, CHISTYAKOVA, 1988)     OR 7.40 M (USA, JOYN
 
 Women's 4X100 RELAY (Final)  `WR 40.82 (USA, 2012)   OR 40.82 (USA, 2012)`
 
-
+Women's 400M (Final) `WR 47.60   OR 48.25`
 
 
 ---
