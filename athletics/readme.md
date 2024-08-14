@@ -59,7 +59,7 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 
 - Men's 400M Hurdles  `WR 45.94  OR 45.94`
 
-
+- Men's 200M   `WR 19.19  OR 19.30`
 
 
 
