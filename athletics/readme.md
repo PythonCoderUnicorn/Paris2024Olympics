@@ -26,7 +26,20 @@
 
 - Women's Shot Put (Final)  `WR 22.63 M (URS, LISOVSKAYA, 1987)  OR 22.41 M (GDR, SLUPIANEK, 1980)`
 
-- Women's 100M HURDLES (FINAL)  `WR 12.12 (NGR, AMUSAN, 2022)  OR 12.26 (PUR, CAMCHO-QUINN, 2021)`
+- Women's 100M Hurdles (Final)  `WR 12.12 (NGR, AMUSAN, 2022)  OR 12.26 (PUR, CAMCHO-QUINN, 2021)`
+
+- Women's 1500M (Final)
+```
+WR 3:49.04 (KEN, KIPYEGON, 2024)
+OR 3:53.11 (KEN, KIPYEGON, 2021)
+**OR 3:51.29 (KEN, KIPYEGON, 2024) ----- 1st 3X WINNER IN HISTORY !!
+```
+
+
+
+
+
+
 
 
 ---
