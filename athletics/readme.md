@@ -61,6 +61,10 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 
 - Men's 200M   `WR 19.19  OR 19.30`
 
+- Men's Discus Throw (Final)  `**OR 70.00 M (JAM, STONA, 2024) **OR 69.97 M (LTU, ALEKNA, 2024)`
+
+
+
 
 
 ---
