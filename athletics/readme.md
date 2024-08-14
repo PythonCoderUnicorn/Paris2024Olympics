@@ -26,6 +26,9 @@
 
 - Women's Shot Put (Final)  `WR 22.63 M (URS, LISOVSKAYA, 1987)  OR 22.41 M (GDR, SLUPIANEK, 1980)`
 
+- Women's 100M HURDLES (FINAL)  `WR 12.12 (NGR, AMUSAN, 2022)  OR 12.26 (PUR, CAMCHO-QUINN, 2021)`
+
+
 ---
 
 `**OR` = new Olympic Record 
