@@ -57,6 +57,7 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 
 - Men's 110M Hurdles  `WR 12.80  OR 12.91`
 
+- Men's 400M Hurdles  `WR 45.94  OR 45.94`
 
 
 
