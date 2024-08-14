@@ -82,7 +82,7 @@ OR 133 kg (TPE, KUO, HSING-CHUN)
 **OR 134 kg (TPE, KUO, HSING-CHUN, 2024)
 ```
 
-### Women's 71 kg WEIGHTLIFTING (FINAL)
+### Women's 71 kg WEIGHTLIFTING (Final)
 
 Snatch:
 ```
@@ -94,7 +94,7 @@ OR 115 kg  OLYMPIC STANDARD
 
 total kg: `WR 273 kg  (CHN, LIAO, 2023)  OR 265 kg OLYMPIC STANDARD`
 
-### Women's 81 kg WEIGHTLIFTING (FINAL)
+### Women's 81 kg WEIGHTLIFTING (Final)
 
 Snatch 
 `**OR 122 kg  (ECU, DAJOMES BARRERA, 2024)`
@@ -105,3 +105,18 @@ Clean and Jerk
 **OR 154 kg (NOR, KOANDA, 2024)
 **OR 151 kg (EGY, AHMED, 2024)
 ```
+
+### Women's 81+ kg WEIGHTLIFTING (Final)
+
+Clean and Jerk
+```
+WR 187 kg (CHN, LI WENWEN, 2021)
+OR 180 kg (CHN, LI WENWEN, 2021)
+```
+
+
+
+
+
+
+
