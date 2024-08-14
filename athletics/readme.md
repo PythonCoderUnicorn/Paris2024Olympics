@@ -63,6 +63,11 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 
 - Men's Discus Throw (Final)  `**OR 70.00 M (JAM, STONA, 2024) **OR 69.97 M (LTU, ALEKNA, 2024)`
 
+- Men's 400M (Final)  `WR 43.03  OR 43.03`
+
+
+
+
 
 
 
