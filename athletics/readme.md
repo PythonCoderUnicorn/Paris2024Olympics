@@ -78,4 +78,14 @@ OR 115 kg  OLYMPIC STANDARD
 
 total kg: `WR 273 kg  (CHN, LIAO, 2023)  OR 265 kg OLYMPIC STANDARD`
 
+### Women's 81 kg WEIGHTLIFTING (FINAL)
 
+Snatch 
+`**OR 122 kg  (ECU, DAJOMES BARRERA, 2024)`
+
+Clean and Jerk 
+```
+**OR 148 kg (NOR, KOANDA, 2024)
+**OR 154 kg (NOR, KOANDA, 2024)
+**OR 151 kg (EGY, AHMED, 2024)
+```
