@@ -43,7 +43,7 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 
 - Men's 5000M (Final) `WR 12:35.36  OR 12:57.82`
 
-
+- Men's 4X100 RELAY (Final)  `WR 2:54.29 (USA, 1993)  OR 2:55.39 (USA, 2009)  **OR 2:54.43 (USA, 2024)`
 
 
 
