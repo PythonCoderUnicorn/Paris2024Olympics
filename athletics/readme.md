@@ -36,7 +36,7 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 ```
 
 
-
+- Women's 4X100 RELAY (Final)  `WR 3:15.17 (USSR, 1988)  OR 3:15.17 (USSR, 1988)`
 
 
 
