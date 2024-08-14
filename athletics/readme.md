@@ -53,7 +53,7 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 
 - Men's 110 Hurdles (Final)  `WR 12.80 (USA, MERITT, 2012)  OR 12.91 (CHN, LIU, 2004)`
 
-
+- Men's Javalin Throw (Final)  `WR 98.48 M (CZE, ZELEZNY, 1996)  OR 90.57 M (NOR, THORKILDSEN, 2008)  **OR 92.97 M (PAK,	NADEEM, 2024)`
 
 
 
