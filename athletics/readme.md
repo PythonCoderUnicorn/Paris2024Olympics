@@ -65,7 +65,7 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 
 - Men's 400M (Final)  `WR 43.03  OR 43.03`
 
-
+- Men's 3000M STEEPLECHASE (Final)    `WR 7:52.11  OR 8:03.28`
 
 
 
