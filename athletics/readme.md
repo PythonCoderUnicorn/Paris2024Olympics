@@ -51,6 +51,12 @@ OR 3:53.11 (KEN, KIPYEGON, 2021)
 
 - Men's 200M (Final)  `WR 19.19 (JAM, USAIN BOLT, 2009)  OR 19.30 (JAM, USAIN BOLT, 2008)`
 
+- Men's 110 Hurdles (Final)  `WR 12.80 (USA, MERITT, 2012)  OR 12.91 (CHN, LIU, 2004)`
+
+
+
+
+
 
 
 
