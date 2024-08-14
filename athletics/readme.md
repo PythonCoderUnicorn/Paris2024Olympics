@@ -24,7 +24,7 @@
 
 - Women's 10000 M (Final)  `WR 28:54.14 OR 29:17.45`
 
-
+- Women's Shot Put (Final)  `WR 22.63 M (URS, LISOVSKAYA, 1987)  OR 22.41 M (GDR, SLUPIANEK, 1980)`
 
 ---
 
